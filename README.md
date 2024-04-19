@@ -4,8 +4,11 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/andrean-mouras-projects)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme__moura75/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andreanguilherme@gmail.com)
+
+
 ![Andrean GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreanMoura&show_icons=true&theme=tokyonight)
-([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreanMoura&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats))
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreanMoura&layout=compact)
 
 ## Tecnologias
 
